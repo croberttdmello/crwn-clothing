@@ -17,6 +17,8 @@
 
   <img src="./assets-readme/react.png" alt="Icon React" width="15"> React
 <br>
+  <img src="./assets-readme/firebase.png" alt="Icon Firebase" width="15">
+<br>
 
 ## Project status 
 
